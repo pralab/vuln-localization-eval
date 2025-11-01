@@ -1,0 +1,12 @@
+venv/
+*.pyc
+__pycache__/
+*.jsonl
+*.csv
+*.bin
+*.log
+*.pdf
+*.pkl
+.vscode
+*.out
+*.part
