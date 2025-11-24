@@ -70,14 +70,15 @@ We welcome questions, suggestions, and contributions. Please open an issue or pu
 ```
 ## Acknowledgements
 This work has been partly supported by the EU-funded Horizon Europe projects [ELSA – European Lighthouse on Secure and Safe AI](https://elsa-ai.eu) (GA no. 101070617)
-and [Sec4AI4Sec - Cybersecurity for AI-Augmented Systems](https://www.sec4ai4sec-project.eu) (GA no. 101120393); and by projects [SERICS](https://serics.eu/) (PE00000014) and FAIR (PE00000013, CUP:
-J23C24000090007) under the MUR NRRP funded by the European Union - NextGenerationEU.
+and [Sec4AI4Sec - Cybersecurity for AI-Augmented Systems](https://www.sec4ai4sec-project.eu) (GA no. 101120393); and by projects [SERICS](https://serics.eu/) (PE00000014) and [FAIR](https://fondazione-fair.it/en/) under the MUR NRRP funded by the European Union - NextGenerationEU.
 
-<img src="imgs/FundedbytheEU.png" alt="LInf" style="height:80px;"/>
-<img src="imgs/elsa.jpg" alt="elsa" style="height:80px;"/> &nbsp;&nbsp;
-<img src="imgs/sec4AI4sec.png" alt="sec4ai4sec" style="height:80px;"/> &nbsp;&nbsp; 
-<img src="imgs/SERICS.png" alt="serics" style="height:80px;"/> &nbsp;&nbsp;
+<p align="center">
+    <img src="imgs/FundedbytheEU.png" alt="LInf" style="height:80px;"/> &nbsp;&nbsp;
+    <img src="imgs/elsa.jpg" alt="elsa" style="height:80px;"/> &nbsp;&nbsp;
+    <img src="imgs/sec4AI4sec.png" alt="sec4ai4sec" style="height:80px;"/> &nbsp;&nbsp; 
+    <img src="imgs/SERICS.png" alt="serics" style="height:80px;"/>
+</p>
 <br>
 <p align="center">
-    <img src="imgs/SAFER_Logo.png" alt="elsa" style="height:160px; text-align: center"/> &nbsp;&nbsp;
+    <img src="imgs/SAFER_Logo.png" alt="elsa" style="height:160px; text-align: center"/>
 </p>
