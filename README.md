@@ -78,4 +78,6 @@ J23C24000090007) under the MUR NRRP funded by the European Union - NextGeneratio
 <img src="imgs/SERICS.png" alt="serics" style="height:80px;"/> &nbsp;&nbsp;
 <img src="imgs/FundedbytheEU.png" alt="LInf" style="height:80px;"/>
 <br>
-<img src="imgs/SAFER_Logo.png" alt="elsa" style="height:80px;"/> &nbsp;&nbsp;
+<p align="center">
+    <img src="imgs/SAFER_Logo.png" alt="elsa" style="height:160px; text-align: center"/> &nbsp;&nbsp;
+</p>
