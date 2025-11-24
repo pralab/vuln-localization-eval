@@ -73,8 +73,9 @@ This work has been partly supported by the EU-funded Horizon Europe projects [EL
 and [Sec4AI4Sec - Cybersecurity for AI-Augmented Systems](https://www.sec4ai4sec-project.eu) (GA no. 101120393); and by projects [SERICS](https://serics.eu/) (PE00000014) and FAIR (PE00000013, CUP:
 J23C24000090007) under the MUR NRRP funded by the European Union - NextGenerationEU.
 
-<img src="imgs/SERICS.png" alt="serics" style="width:200px;"/> &nbsp;&nbsp; 
-<img src="imgs/sec4AI4sec.png" alt="sec4ai4sec" style="width:70px;"/> &nbsp;&nbsp; 
-<img src="imgs/elsa.jpg" alt="elsa" style="width:70px;"/> &nbsp;&nbsp;
-<img src="imgs/SAFER_Logo.png" alt="elsa" style="width:70px;"/> &nbsp;&nbsp;
-<img src="imgs/FundedbytheEU.png" alt="LInf" style="width:240px;"/>
+<img src="imgs/sec4AI4sec.png" alt="sec4ai4sec" style="height:80px;"/> &nbsp;&nbsp; 
+<img src="imgs/elsa.jpg" alt="elsa" style="height:80px;"/> &nbsp;&nbsp;
+<img src="imgs/SERICS.png" alt="serics" style="height:80px;"/> &nbsp;&nbsp;
+<img src="imgs/FundedbytheEU.png" alt="LInf" style="height:80px;"/>
+<br>
+<img src="imgs/SAFER_Logo.png" alt="elsa" style="height:80px;"/> &nbsp;&nbsp;
