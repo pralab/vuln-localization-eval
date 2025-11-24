@@ -70,7 +70,7 @@ We welcome questions, suggestions, and contributions. Please open an issue or pu
 ```
 ## Acknowledgements
 This work has been partly supported by the EU-funded Horizon Europe projects [ELSA – European Lighthouse on Secure and Safe AI](https://elsa-ai.eu) (GA no. 101070617)
-and [Sec4AI4Sec - Cybersecurity for AI-Augmented Systems](https://www.sec4ai4sec-project.eu) (GA no. 101120393); and by projects [SERICS](https://serics.eu/) (PE00000014) and [FAIR](https://fondazione-fair.it/en/) under the MUR NRRP funded by the European Union - NextGenerationEU.
+and [Sec4AI4Sec - Cybersecurity for AI-Augmented Systems](https://www.sec4ai4sec-project.eu) (GA no. 101120393); and by projects [SERICS](https://serics.eu/) (PE00000014) and [FAIR](https://fondazione-fair.it/en/) (PE00000013) under the MUR NRRP funded by the European Union - NextGenerationEU.
 
 <p align="center">
     <img src="imgs/FundedbytheEU.png" alt="LInf" style="height:80px;"/> &nbsp;&nbsp;
